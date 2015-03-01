@@ -1,3 +1,9 @@
 Gemfile.lock
+
+# jekyll
 _site
 .sass-cache
+
+# Intellij
+.idea
+*.iml
