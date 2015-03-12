@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome on my blog!"
+title:  "Welcome to my blog!"
 categories: misc
 tags: bash fork-bomb
 ---
-Welcome on my blog. I am a software developer and I will publish here technial posts.
+Welcome to my blog. I am a software developer and I will publish here technical posts.
 
 You can learn more about me on [GitHub][github] and [LinkedIn][linkedin].
 
