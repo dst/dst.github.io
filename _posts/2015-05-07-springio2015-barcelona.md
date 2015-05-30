@@ -61,7 +61,7 @@ If I could award the best talks, which I saw, I would choose:
 * JHipster, the leading application generator for Spring Boot + AngularJS
 * Inside an Spring Event Sourced CQRS application – or why Microservices can actually work
 
-I was really impressed when listening this talks.
+I was really impressed when listening these talks.
 
 # Funny moments
 I liked "Spring Batch for Large Enterprises Operations" talk. It was interesting from a technical point of view.
