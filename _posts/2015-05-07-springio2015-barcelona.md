@@ -40,6 +40,7 @@ Here you can find a record of my [activity][wiki-change]. It was my first contri
 There was also an interesting story about a cover of "Professional Java Development with the Spring Framework"
 book. Authors asked a random photograph during some conference to take them a picture for a book cover.
 Here is the result:
+
 ![Book Professional Java Development with the Spring Framework](/assets/book-java-dev-with-sf.jpg)
 
 # Best talks
