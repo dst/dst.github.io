@@ -56,7 +56,12 @@ I didn't like the talk which won. Maybe because I had heard about Spring Cloud a
 them at work so I expected to see something more. Maybe I just made a wrong choice. If I would go to a talk about
 the Java basics, I would be probably bored as well. Nevertheless, there was one interesting thing, which I has
 learnt during this talk. Namely, a colon can separate a key and a value in a properties file. In fact, several
-formats are possible, including key=value, key = value, key:value, and key value.
+formats are possible, including:
+
+* key=value
+* key = value
+* key:value
+* key value.
 
 I haven't seen the talk number 3 because I decided to see
 "Inside an Spring Event Sourced CQRS application – or why Microservices can actually work" and it was a perfect
