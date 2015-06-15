@@ -103,10 +103,10 @@ abcd$-efgh$2}xyz
 
 or use a single quotation mark:
 {% highlight bash %} 
-$ ruby aes.rb -e 'abcd$-efgh$2}xyz' "SUPER secret and hard master password"
+$ ruby aes.rb -e 'abcd$-efgh$2}xyz' 'SUPER secret and hard master password'
 "{cipher}212ea4f1c5c58894884f51697f078c9894db95ba3085da15a018d267ffae3d54d91f3ae9f794317705c260d9bd891149"
 
-$ ruby aes.rb -d 212ea4f1c5c58894884f51697f078c9894db95ba3085da15a018d267ffae3d54d91f3ae9f794317705c260d9bd891149  "SUPER secret and hard master password"
+$ ruby aes.rb -d 212ea4f1c5c58894884f51697f078c9894db95ba3085da15a018d267ffae3d54d91f3ae9f794317705c260d9bd891149  'SUPER secret and hard master password'
 abcd$-efgh$2}xyz
 {% endhighlight %}
  
