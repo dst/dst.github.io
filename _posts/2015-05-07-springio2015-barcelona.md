@@ -4,7 +4,6 @@ title:  "Spring I/O 2015 Barcelona review"
 categories: conference
 tags: conference review spring barcelona wikipedia
 ---
-
 I attended Spring I/O conference in Barcelona on 29th and 30th April.
 
 It was the first time when this conference took place in Barcelona and was fully in English.
