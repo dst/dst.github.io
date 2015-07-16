@@ -14,6 +14,6 @@ certificates / statements of accomplishment:
 * [Principles of Reactive Programming](/assets/certificates/CourseraReactive.pdf)
 * [Functional Programming Principles in Scala](/assets/certificates/CourseraProgFun.pdf)
 * [Startup Engineering](/assets/certificates/CourseraStartup.pdf)
-* [M101J: MongoDB for Java Developers](/assets/certificates/10GenMongoDbForJavaDev.pdf)
+* [MongoDB for Java Developers](/assets/certificates/10GenMongoDbForJavaDev.pdf)
 * [Computer Networks](/assets/certificates/CourseraCompNet.pdf)
 * [Web Development](/assets/certificates/UdacityWebDev.pdf)
