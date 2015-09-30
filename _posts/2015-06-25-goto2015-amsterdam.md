@@ -4,7 +4,7 @@ title:  "GOTO Amsterdam 2015 review"
 categories: conference
 tags: conference review goto amsterdam
 ---
-I attended the GOTO conference in Amsterdam on 18th and 19th June.
+I attended the [GOTO][goto2015] conference in Amsterdam on 18th and 19th June 2015.
 
 The conference was in Amsterdam and was fully in English.
 There were 732 attendees, almost two times more than the previous year.
@@ -40,4 +40,4 @@ in smaller rooms there was too hot and stuffy.
 From the organisational point of view, it was the best conference which I attended, albeit
 it was also the most expensive one.
 
-[goto2015]:     http://gotocon.com/amsterdam-2015
+[goto2015]: http://gotocon.com/amsterdam-2015
