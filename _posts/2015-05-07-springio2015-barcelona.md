@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Spring I/O 2015 Barcelona review"
+title:  "Spring I/O Barcelona 2015 review"
 categories: conference
 tags: conference review spring barcelona wikipedia
 ---
-I attended Spring I/O conference in Barcelona on 29th and 30th April.
+I attended Spring I/O conference in Barcelona on 29th and 30th April 2015.
 
 It was the first time when this conference took place in Barcelona and was fully in English.
 The previous editions were in Madrid and talks were given in English and Spanish.
@@ -65,7 +65,8 @@ formats are possible, including:
 I haven't seen the talk number 3 because I decided to see
 "Inside an Spring Event Sourced CQRS application – or why Microservices can actually work" and it was a perfect
 choice, I wasn't disappointed at all. I haven't also attended the talk number 2 because I have already seen it
-in Warsaw during WJUG meeting, which was almost a year ago.
+in Warsaw during WJUG meeting, which was almost a year ago. It was the first time when I played with Spring
+Boot. I liked very much the talk and it helped me to get a new job.
 
 If I could award the best talks, choosing among the ones which I saw, I would choose:
 
