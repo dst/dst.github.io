@@ -1,0 +1,1 @@
+@RequestMapping(value = '/{country}/{productName}/{version:.+}', method = GET)
