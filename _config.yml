@@ -106,16 +106,16 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/4f.png"
     date: "September 2014 - Today"
-    description: "Senior Software Developer / Team Leader at 4financeIT"
+    description: "Senior Software Developer @ 4finance IT"
   - image: "/img/timeline/7b.jpg"
     date: "June 2008 - August 2014"
-    description: "Senior Software Engineer / Team Leader at 7bulls.com"
+    description: "Senior Software Engineer @ 7bulls.com"
   - image: "/img/timeline/uw.jpg"
     date: "September 2010"
-    description: "Master of Science in Computer Science at University of Warsaw"
+    description: "M.Sc. in Computer Science @ University of Warsaw"
   - image: "/img/timeline/vu.png"
     date: "August 2010"
-    description: "Master of Science in Computer Science at Vrije Universiteit Amsterdam"
+    description: "M.Sc. in Computer Science @ Vrije Universiteit Amsterdam"
 
 # First image of the Timeline
 
