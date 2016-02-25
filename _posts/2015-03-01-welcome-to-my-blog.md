@@ -1,8 +1,9 @@
 ---
 layout: post
+section-type: post
 title:  "Welcome to my blog!"
-categories: misc
-tags: bash fork-bomb
+category: misc
+tags: [bash fork-bomb]
 ---
 Welcome to my blog. I am a software developer and I will publish here technical posts.
 

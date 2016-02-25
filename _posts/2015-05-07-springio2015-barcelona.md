@@ -1,8 +1,9 @@
 ---
 layout: post
+section-type: post
 title:  "Spring I/O Barcelona 2015 review"
-categories: conference
-tags: conference review spring barcelona wikipedia
+category: conf
+tags: [conference review spring barcelona wikipedia]
 ---
 I attended Spring I/O conference in Barcelona on 29th and 30th April 2015.
 

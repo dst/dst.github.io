@@ -1,8 +1,9 @@
 ---
 layout: post
+section-type: post
 title:  "GOTO Amsterdam 2015 review"
-categories: conference
-tags: conference review goto amsterdam
+category: conf
+tags: [conference review goto amsterdam]
 ---
 I attended the [GOTO][goto2015] conference in Amsterdam on 18th and 19th June 2015.
 

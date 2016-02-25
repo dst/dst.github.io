@@ -1,8 +1,9 @@
 ---
 layout: post
+section-type: post
 title:  "Why you shouldn't use a dollar sign in your passwords"
-categories: misc
-tags: bash open-source micro-infra-spring
+category: tech
+tags: [bash open-source micro-infra-spring]
 ---
 Recently I have had a very interesting problem at work. I started my new microservice which uses encrypted,
 git-based properties and I noticed the following exception in logs:
