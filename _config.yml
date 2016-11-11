@@ -104,8 +104,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/atlassian.png"
+    date: "June 2016 - Today"
+    description: "Senior Developer @ Atlassian, Sydney"
   - image: "/img/timeline/4f.png"
-    date: "September 2014 - Today"
+    date: "September 2014 - May 2016"
     description: "Senior Software Developer @ 4finance IT"
   - image: "/img/timeline/7b.jpg"
     date: "June 2008 - August 2014"
